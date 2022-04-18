@@ -64,3 +64,18 @@ textarea {
   color: #36cca2;
   text-decoration: none;
 }
+
+.delete_button{
+  color: white;
+  background: red;
+  padding: 10px;
+  border-radius: 10px;
+  border-style:none;
+  cursor: pointer;
+}
+
+.search-container input{
+  width: 50%;
+  margin-left:20%;
+  outline: none;
+}
